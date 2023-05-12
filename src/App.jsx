@@ -76,13 +76,20 @@ const App = () => {
       image: "https://imgs.xkcd.com/comics/positive_and_negative_reviews.png",  
       attributes: ["neccessary", "hyrdrating", "underrated", "amazing"],
     },
-    },
   ]
   const kelseasThings = [
     {
       name: "Peanut-Butter",
       image: "https://imgur.com/gallery/3ORiwnu",  
       attributes: ["Adorable", "Chaotic", "Snuggly", "Purrfect"],
+    },
+  ]
+
+  const mikesThings = [
+    {
+      name: "energy tacos",
+      image: "https://imgs.xkcd.com/comics/health_drink_2x.png",  
+      attributes: ["efficient", "reusability", "a taco", "beautiful"],
     },
   ]
 
