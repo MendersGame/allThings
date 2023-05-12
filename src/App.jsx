@@ -62,6 +62,13 @@ const App = () => {
       attributes: ["efficient", "reusability", "not a taco", "beautiful"],
     },
   ]
+  const brendansThings = [
+    {
+      name: "pancakes",
+      image: "https://imgs.xkcd.com/comics/health_drink_2x.png",  
+      attributes: ["efficient", "reusability", "not a taco", "beautiful"],
+    },
+  ]
 
   const nicksThings = [
     {
@@ -94,5 +101,6 @@ const App = () => {
     </Routes>
   )
 }
+// comment
 
 export default App
