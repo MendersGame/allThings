@@ -66,7 +66,7 @@ const App = () => {
   const nicksThings = [
     {
       name: "water",
-      image: "https://imgs.xkcd.com/comics/water.png",  
+      image: "https://imgs.xkcd.com/comics/positive_and_negative_reviews.png",  
       attributes: ["neccessary", "hyrdrating", "underrated", "amazing"],
     },
   ]
