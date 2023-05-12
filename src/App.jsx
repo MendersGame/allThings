@@ -78,6 +78,14 @@ const App = () => {
     },
   ]
 
+  const mikesThings = [
+    {
+      name: "energy tacos",
+      image: "https://imgs.xkcd.com/comics/health_drink_2x.png",  
+      attributes: ["efficient", "reusability", "a taco", "beautiful"],
+    },
+  ]
+
   return (
     <Routes>
       {/* All the <Route> components should live here */}
