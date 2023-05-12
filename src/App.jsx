@@ -76,7 +76,6 @@ const App = () => {
       image: "https://imgs.xkcd.com/comics/positive_and_negative_reviews.png",  
       attributes: ["neccessary", "hyrdrating", "underrated", "amazing"],
     },
-    },
   ]
   const kelseasThings = [
     {
